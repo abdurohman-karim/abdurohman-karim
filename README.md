@@ -8,5 +8,12 @@ HTML, CSS, SASS, Bootsrap, Tailwind, BEM, Animate.css, JavaScript, jQuery, WOW.j
 Tilt.js, PHP, Laravel, MySQL, FTP, cPanel, Figma, Canva, GIT, GitHub, Linux, Unity, MagicaVoxel,
 Python, aiogram
 
-## My portfolio: <img src="https://media0.giphy.com/media/LQtg8a3nTA4MSjuy3X/giphy.gif?cid=ecf05e47y5mqgecld1ny89fc3igejepy1u522xqgm65amdzq&rid=giphy.gif&ct=s" width="30px">
-https://abdurohmankarim.uz
+## My works: <img src="https://media0.giphy.com/media/LQtg8a3nTA4MSjuy3X/giphy.gif?cid=ecf05e47y5mqgecld1ny89fc3igejepy1u522xqgm65amdzq&rid=giphy.gif&ct=s" width="30px">
+
+https://abdurohmankarim.uz - my portfolio website
+https://getsoftware.uz - I'm owner this company
+https://milliy-bozor.com - my first work, designed and done back-end by me
+https://ehom-media.com - my second work, designed, done front-end, done back-end and uploaded to hosting by me
+https://grandstudy.uz - designed by me
+
+
