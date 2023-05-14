@@ -15,5 +15,7 @@ https://getsoftware.uz - I'm owner this company <br>
 https://milliy-bozor.com - my first work, designed and done back-end by me <br>
 https://ehom-media.com - my second work, designed, done front-end, done back-end and uploaded to hosting by me <br>
 https://grandstudy.uz - designed by me
+https://idealedu.uz - GMC project
+https://curtain.me 
 
 
