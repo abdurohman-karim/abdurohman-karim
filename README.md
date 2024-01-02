@@ -6,7 +6,7 @@ I'm web developer and web designer
 
 HTML, CSS, SASS, Bootsrap, Tailwind, BEM, Animate.css, JavaScript, jQuery, WOW.js, GSAP, 
 Tilt.js, PHP, Laravel, MySQL, FTP, cPanel, Figma, Canva, GIT, GitHub, Linux, Unity, MagicaVoxel,
-Python, aiogram
+Python, Aiogram, Vue.js, Node.js
 
 ## My works: <img src="https://media0.giphy.com/media/LQtg8a3nTA4MSjuy3X/giphy.gif?cid=ecf05e47y5mqgecld1ny89fc3igejepy1u522xqgm65amdzq&rid=giphy.gif&ct=s" width="30px">
 
