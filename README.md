@@ -38,25 +38,29 @@ I'm Abdurohman Karim, a passionate web developer and designer ready to turn your
 ### My Works Showcase <img src="https://media0.giphy.com/media/LQtg8a3nTA4MSjuy3X/giphy.gif?cid=ecf05e47y5mqgecld1ny89fc3igejepy1u522xqgm65amdzq&rid=giphy.gif&ct=s" width="30px">
 
 1. **Portfolio Bliss** 🚀
-   - [Abdurohman Karim Portfolio](https://abdurohmankarim.uz) - A glimpse into my digital realm.
+   - [Abdurohman Karim Portfolio](https://www.figma.com/file/nPHR78zA4EXnvXYktQjdFI/Portfolio-2.0?type=design&t=qUZge2hivr69mAGD-6) - A glimpse into my digital realm.
 
 2. **Business Marvel** 💼
-   - [GetSoftware](https://getsoftware.uz) - Proud owner and curator of this digital venture.
+   - [GMC Platform](https://www.figma.com/file/xhct8vrenqaNsB9nvMZnpY/GMC-Community?type=design&t=qUZge2hivr69mAGD-6) - Proud owner and curator of this digital venture.
 
 3. **Marketplace Wonder** 🌐
-   - [Milliy Bozor](https://milliy-bozor.com) - My first masterpiece, design and back-end wizardry by yours truly.
+   - [Milliy Bozor](https://www.figma.com/file/oMD4gUjgDSWlaxidqkMv7e/MilliyBozor?type=design&t=qUZge2hivr69mAGD-6) - My first masterpiece, design and back-end wizardry by yours truly.
 
 4. **Elegant Media** 🌟
-   - [Ehom Media](https://ehom-media.com) - From design to front-end to back-end, the whole shebang, brought to life and hosted with care.
+   - [Ehom Media](https://www.figma.com/file/yn1mHOISQdzpQmktoxzDVL/New-portfolio?type=design&t=qUZge2hivr69mAGD-6) - From design to front-end to back-end, the whole shebang, brought to life and hosted with care.
 
 5. **Grand Education** 🎓
-   - [Grand Study](https://grandstudy.uz) - Crafted with design love.
+   - [Grand Study](https://www.figma.com/file/KNQT12WIf8tMrAf7O3shNk/Grand-Study?type=design&t=qUZge2hivr69mAGD-6) - Crafted with design love.
 
 6. **Education Excellence** 🏫
    - [IdealEdu](https://idealedu.uz) - A GMC project worth exploring.
 
 7. **Creative Curtains** 🎭
    - [Curtain.me](https://curtain.me) - A touch of creativity in every fold.
+
+8. **Bookrate.uz** 
+  - [Bookrate.Uz Website](https://bookrate.botuzrobot.uz)
+  - [Bookrate.uz Design](https://www.figma.com/file/3iBJVs4YadN70d9ufPpdeE/BookRate?type=design&t=qUZge2hivr69mAGD-6)
 
 Feel free to explore these digital wonders and let me know if you want to collaborate on the next magical project! 🌟
 
