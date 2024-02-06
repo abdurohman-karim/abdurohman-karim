@@ -21,7 +21,7 @@ PostgreSQL / MySQL
 ### Интерфейс прикладного программирования (API)
 - RestAPI / API / jsonAPI / SOAP
 
-### ui-ux и Дизайн
+### UI-UX и Дизайн
 - Figma / Canva
 
 ### Системы контроля версий
