@@ -16,7 +16,7 @@
 - PHP|Laravel / JavaScript|Node.js / Python|Django(основы)
 
 ### SQL баз данных 
-PostgreSQL / MySQL
+- PostgreSQL / MySQL
 
 ### Интерфейс прикладного программирования (API)
 - RestAPI / API / jsonAPI / SOAP
