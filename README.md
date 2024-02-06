@@ -22,7 +22,7 @@ PostgreSQL / MySQL
 - RestAPI / API / jsonAPI / SOAP
 
 ### UI-UX и Дизайн
-- Figma / Canva
+- Figma / Pixso / Canva
 
 ### Системы контроля версий
 - GIT / GitHub
