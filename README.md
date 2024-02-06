@@ -42,7 +42,7 @@ PostgreSQL / MySQL
 ### Другие навыки
 - BEM / GSAP / WOW.js / Tilt.js / Three.js / jQuery
 
-Достижение на Roadmap
+## Достижение на Roadmap
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65c0b4ac0c5481228396881c?variant=dark&roadmaps=full-stack%2Cbackend%2Cnodejs%2Cvue)](https://roadmap.sh)
 
 
