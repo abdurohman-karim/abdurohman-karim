@@ -48,14 +48,16 @@
 
 ## Примеры моих работ
 
-1. **Портфель Bliss** 🚀
+1. **Portfolio** 
    - [Ссылка на портфель](https://www.figma.com/file/nPHR78zA4EXnvXYktQjdFI/Portfolio-2.0?type=design&t=qUZge2hivr69mAGD-6)
 
-2. **Business Marvel** 💼
-   - [Ссылка на GMC Platform](https://www.figma.com/file/xhct8vrenqaNsB9nvMZnpY/GMC-Community?type=design&t=qUZge2hivr69mAGD-6)
+2. **Bookrate Uz**
+   - [Сайт проекта](https://bookrate.botuzrobot.uz)
+   - [Дизайн проекта](https://www.figma.com/file/xhct8vrenqaNsB9nvMZnpY/GMC-Community?type=design&t=qUZge2hivr69mAGD-6)
 
-3. **Marketplace Wonder** 🌐
-   - [Ссылка на Milliy Bozor](https://www.figma.com/file/oMD4gUjgDSWlaxidqkMv7e/MilliyBozor?type=design&t=qUZge2hivr69mAGD-6)
+4. **IdealEdu** 
+   Этот проект является локальным и используется в качестве CRM для Idealedu.
+   - [Ссылка на IdealEdu](https://idealedu.uz)
 
 [Продолжайте перечислять ваши проекты и прикреплять ссылки на них]
 
@@ -65,5 +67,5 @@
 Давайте создадим что-то волшебное вместе! Свяжитесь со мной:
 
 - [LinkedIn](https://www.linkedin.com/in/abdurohmankarim/)
-- [GitHub](https://github.com/abdurohman-karim)
+- [Telegram](https://t.me/abdurohman_karim)
 - [Twitter](https://twitter.com/abdurohmankarim)
