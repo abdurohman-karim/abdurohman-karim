@@ -15,7 +15,7 @@
 ### Бекенд фреймворки
 - PHP|Laravel / JavaScript|Node.js / Python|Django(основы)
 
-### Node.js деиали 
+### Node.js детали 
 - Express.js|Handlebars
 
 ### SQL баз данных 
