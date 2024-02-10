@@ -15,8 +15,14 @@
 ### Бекенд фреймворки
 - PHP|Laravel / JavaScript|Node.js / Python|Django(основы)
 
+### Node.js деиали 
+- Express.js|Handlebars
+
 ### SQL баз данных 
 - PostgreSQL / MySQL
+  
+### NOSQL баз данных 
+- MongoDB
 
 ### Интерфейс прикладного программирования (API)
 - RestAPI / API / jsonAPI / SOAP
