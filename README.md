@@ -16,7 +16,7 @@
 - PHP|Laravel / JavaScript|Node.js / Python|Django(основы)
 
 ### Node.js детали 
-- Express.js|Handlebars
+- Express.js|Handlebars / Nest.js / Typescript
 
 ### SQL баз данных 
 - PostgreSQL / MySQL
