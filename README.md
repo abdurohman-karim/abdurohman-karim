@@ -15,6 +15,9 @@
 ### Бекенд фреймворки
 - PHP|Laravel / JavaScript|Node.js 
 
+### Laravel детали
+- Liveware / Laravel Jobs 
+
 ### SQL баз данных 
 - PostgreSQL / MySQL / MariaDB
   
@@ -28,7 +31,7 @@
 - Figma / Pixso / Canva
 
 ### Системы контроля версий
-- GIT / GitHub / CI\CD
+- Git / GitHub / CI\CD
 
 ### Владение системой 
 - Linux, Windows
