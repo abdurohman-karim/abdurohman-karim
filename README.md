@@ -48,10 +48,6 @@
 ### Другие навыки
 - BEM / GSAP / WOW.js / Tilt.js / Three.js / jQuery
 
-## Достижение на Roadmap
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65c0b4ac0c5481228396881c?variant=dark)](https://roadmap.sh)
-
-
 ## Примеры моих работ
 
 1. **Portfolio** 
@@ -64,6 +60,16 @@
 4. **IdealEdu** 
    Этот проект является локальным и используется в качестве CRM для Idealedu.
    - [Ссылка на IdealEdu](https://idealedu.uz)
+
+5. **OctanceLMS**
+  - [Ссылка на OktaneLMS](https://brklyn.uz)
+    
+6. **Morobo'lsin**
+  - [Ссылка на Morobo'lsin](https://morobolsin.uz)
+
+7. **MalikaBozor Qora ro'yxat**
+  - [Ссылка на проект](https://blacklist.vipay.uz/)
+    
 
 [И есть еще несколько проектов]
 
