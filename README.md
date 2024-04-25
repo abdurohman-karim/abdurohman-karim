@@ -13,7 +13,7 @@
 - PHP / JavaScript / Python
 
 ### Бекенд фреймворки
-- PHP|Laravel / JavaScript|Node.js / Python|Django(основы)
+- PHP|Laravel / JavaScript|Node.js 
 
 ### Node.js детали 
 - Express.js|Handlebars / Nest.js / Typescript
