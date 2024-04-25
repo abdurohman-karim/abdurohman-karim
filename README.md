@@ -15,11 +15,8 @@
 ### Бекенд фреймворки
 - PHP|Laravel / JavaScript|Node.js 
 
-### Node.js детали 
-- Express.js|Handlebars / Nest.js / Typescript
-
 ### SQL баз данных 
-- PostgreSQL / MySQL
+- PostgreSQL / MySQL / MariaDB
   
 ### NOSQL баз данных 
 - MongoDB
@@ -31,7 +28,7 @@
 - Figma / Pixso / Canva
 
 ### Системы контроля версий
-- GIT / GitHub
+- GIT / GitHub / CI\CD
 
 ### Владение системой 
 - Linux, Windows
