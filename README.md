@@ -61,7 +61,7 @@
    Этот проект является локальным и используется в качестве CRM для Idealedu.
    - [Ссылка на IdealEdu](https://idealedu.uz)
 
-5. **OctanceLMS**
+5. **OctaneLMS**
   - [Ссылка на OktaneLMS](https://brklyn.uz)
     
 6. **Morobo'lsin**
