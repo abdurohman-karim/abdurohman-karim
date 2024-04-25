@@ -25,7 +25,7 @@
 - MongoDB
 
 ### Интерфейс прикладного программирования (API)
-- RestAPI / API / jsonAPI / SOAP
+- RestAPI / API / JSON-RPC 
 
 ### UI-UX и Дизайн
 - Figma / Pixso / Canva
