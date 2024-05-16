@@ -69,6 +69,9 @@
 
 7. **MalikaBozor Qora ro'yxat**
   - [Ссылка на проект](https://blacklist.vipay.uz/)
+
+8. **Merchantry**
+  - [Ссылка на проект](https://merchantry.vipay.uz/)
     
 
 [И есть еще несколько проектов]
