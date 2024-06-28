@@ -77,8 +77,6 @@
 
 ## Как связаться
 
-Давайте создадим что-то волшебное вместе! Свяжитесь со мной:
-
 - [LinkedIn](https://www.linkedin.com/in/abdurohmankarim/)
 - [Telegram](https://t.me/abdurohman_karim)
 - [Twitter](https://twitter.com/abdurohmankarim)
