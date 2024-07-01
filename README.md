@@ -46,7 +46,7 @@
 - Python|Aiogram, python-telegram-bot
 
 ### Другие навыки
-- BEM / GSAP / WOW.js / Tilt.js / Three.js / jQuery
+- BEM / GSAP / Tilt.js / Three.js / jQuery
 
 ## Примеры моих работ
 
