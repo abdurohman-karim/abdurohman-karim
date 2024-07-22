@@ -7,7 +7,7 @@
 - HTML / CSS / SASS / Bootstrap / Animate.css / JavaScript (ES6+) 
 
 ### Реактивный фронтенд
-- Vue.js / Vuex / ESLint / Prettier / Tailwind CSS
+- Vue.js / Vuex / ESLint / Tailwind CSS
 
 ### Языки программировании 
 - PHP / JavaScript / Python
