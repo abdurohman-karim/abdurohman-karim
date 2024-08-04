@@ -60,13 +60,13 @@
    Этот проект является локальным и используется в качестве CRM для Idealedu.
    - [Ссылка на IdealEdu](https://idealedu.uz)
 
-5. **OctaneLMS**
+5. **OctaneLMS** проект является локальным и используется в качестве CRM для Brooklyn 
   - [Ссылка на OktaneLMS](https://brklyn.uz)
     
-6. **Morobo'lsin**
+6. **Morobo'lsin** проект используется в качестве BackEnd для Morobolsin (в стадии разработки) 
   - [Ссылка на Morobo'lsin](https://morobolsin.uz)
 
-7. **MalikaBozor Qora ro'yxat**
+7. **MalikaBozor Qora ro'yxat** 
   - [Ссылка на проект](https://blacklist.vipay.uz/)
 
 8. **Merchantry**
