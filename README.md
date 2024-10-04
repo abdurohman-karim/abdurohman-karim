@@ -26,6 +26,9 @@
 ### Интерфейс прикладного программирования (API)
 - RestAPI / API / JSON-RPC 
 
+### Тип аутентитификаций
+- Basic Auth, JWT, Bearer-Token, OAuth, ApiKey 
+
 ### UI-UX и Дизайн
 - Figma / Pixso / Canva
 
