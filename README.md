@@ -15,7 +15,7 @@
 - PHP|Laravel / JavaScript|Node.js 
 
 ### Laravel детали
-- Liveware / Laravel Jobs 
+- Liveware / Laravel Jobs / Queue Jobs / CRON 
 
 ### SQL баз данных 
 - PostgreSQL / MySQL / MariaDB
