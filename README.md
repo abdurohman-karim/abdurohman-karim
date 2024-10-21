@@ -18,7 +18,7 @@
 - Liveware / Laravel Jobs / Queue Jobs / CRON 
 
 ### SQL баз данных 
-- PostgreSQL / MySQL / MariaDB
+- PostgreSQL / MySQL / MariaDB / DataGrip
   
 ### NOSQL баз данных 
 - MongoDB
