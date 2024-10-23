@@ -38,6 +38,11 @@
 ### Владение системой 
 - Linux, Windows
 
+### Владение инструментами Kali / Ubuntu Linux
+- Vim / Cat / Grep / Nikto / SQLMap / nmap 
+- wireshark / dirb / hashcat / hydra / wordlists
+- dirsearch / burpsuite / netcat / metasploit
+
 ### Исследование геймдева 
 - Unity(основы)
 
