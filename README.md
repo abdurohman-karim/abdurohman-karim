@@ -29,6 +29,9 @@
 ### Тип аутентитификаций
 - Basic Auth, JWT, Bearer-Token, OAuth, ApiKey 
 
+### Инструменты для Микросервисов
+- Redis / RabbitMQ 
+
 ### UI-UX и Дизайн
 - Figma / Pixso / Canva
 
