@@ -44,7 +44,7 @@
 ### Владение инструментами Kali / Ubuntu Linux
 - Vim / Cat / Grep / Nikto / SQLMap / nmap 
 - wireshark / dirb / hashcat / hydra / wordlists
-- dirsearch / burpsuite / netcat / metasploit
+- dirsearch / burpsuite / netcat / metasploit 
 
 ### Исследование геймдева 
 - Unity(основы)
@@ -53,7 +53,7 @@
 - MagicaVoxel(основы) / LibreSprite(основы)
 
 ### Алхимия чатботов
-- Python|Aiogram, python-telegram-bot
+- Python|Aiogram, python-telegram-bot / opencv
 
 ### Другие навыки
 - BEM / GSAP / Tilt.js / Three.js / jQuery / Bitrix24
