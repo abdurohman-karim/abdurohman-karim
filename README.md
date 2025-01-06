@@ -1,6 +1,6 @@
 ## Приветствую вас! Меня зовут Abdurohman, и я веб-разработчик, готовый воплотить ваши цифровые мечты в реальность! 
 
-## Мои навыки [![wakatime](https://wakatime.com/badge/user/f18db14a-403e-4ea2-bc42-065c20d6aa5d.svg)](https://wakatime.com/@f18db14a-403e-4ea2-bc42-065c20d6aa5d) $reg_date='2025-01-06'
+## Мои навыки [![wakatime](https://wakatime.com/badge/user/f18db14a-403e-4ea2-bc42-065c20d6aa5d.svg)](https://wakatime.com/@f18db14a-403e-4ea2-bc42-065c20d6aa5d) ```$reg_date='2025-01-06'```
 
 ### Фронтенд
 - HTML / CSS / SASS / Bootstrap / Animate.css / JavaScript (ES6+) 
