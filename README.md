@@ -30,13 +30,16 @@
 - Basic Auth, JWT, Bearer-Token, OAuth, ApiKey 
 
 ### Инструменты для Микросервисов
-- Redis / RabbitMQ 
+- Redis / RabbitMQ
+
+### DevOps навыки
+- Docker / GitLab / CI\CD / 
 
 ### UI-UX и Дизайн
 - Figma / Pixso / Canva
 
 ### Системы контроля версий
-- Git / GitHub / CI\CD
+- Git / GitHub
 
 ### Владение системой 
 - Linux, Windows
