@@ -24,7 +24,10 @@
 - MongoDB
 
 ### Интерфейс прикладного программирования (API)
-- RestAPI / API / JSON-RPC 
+- RestAPI / API / JSON-RPC
+
+### Работа с API сервисами
+- Trello API, Telegram Bot API, Ninjas API 
 
 ### Тип аутентитификаций
 - Basic Auth, JWT, Bearer-Token, OAuth, ApiKey 
