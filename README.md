@@ -64,33 +64,6 @@
 ### Другие навыки
 - BEM / GSAP / Tilt.js / Three.js / jQuery / Bitrix24
 
-## Примеры моих работ
-
-1. **Portfolio** 
-   - [Ссылка на портфель](https://www.figma.com/file/nPHR78zA4EXnvXYktQjdFI/Portfolio-2.0?type=design&t=qUZge2hivr69mAGD-6)
-
-2. **Bookrate Uz**
-   - [Сайт проекта](https://bookrate.botuzrobot.uz)
-   - [Дизайн проекта](https://www.figma.com/file/xhct8vrenqaNsB9nvMZnpY/GMC-Community?type=design&t=qUZge2hivr69mAGD-6)
-
-4. **IdealEdu** 
-   Этот проект является локальным и используется в качестве CRM для Idealedu.
-   - [Ссылка на IdealEdu](https://idealedu.uz)
-
-5. **OctaneLMS** проект является локальным и используется в качестве CRM для Brooklyn 
-  - [Ссылка на OktaneLMS](https://brklyn.uz)
-    
-6. **Morobo'lsin** проект используется в качестве BackEnd для Morobolsin (в стадии разработки) 
-  - [Ссылка на Morobo'lsin](https://morobolsin.uz)
-
-7. **MalikaBozor Qora ro'yxat** 
-  - [Ссылка на проект](https://blacklist.vipay.uz/)
-
-8. **Merchantry**
-  - [Ссылка на проект](https://muslim.inclass.uz/)
-    
-
-
 ## Как связаться
 
 - [LinkedIn](https://www.linkedin.com/in/abdurohmankarim/)
