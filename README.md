@@ -42,7 +42,7 @@
 - Figma / Pixso / Canva
 
 ### Системы контроля версий
-- Git / GitHub
+- Git / GitHub / GitLab
 
 ### Владение системой 
 - Linux, Windows
