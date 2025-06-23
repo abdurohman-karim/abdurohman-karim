@@ -36,7 +36,7 @@
 - Redis / RabbitMQ
 
 ### DevOps навыки
-- Docker / GitLab / CI\CD / 
+- Docker / GitLab / CI\CD / GitHub Actions / Grafana / Sentry / Hestia CP 
 
 ### UI-UX и Дизайн
 - Figma / Pixso / Canva
