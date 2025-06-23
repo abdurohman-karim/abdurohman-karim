@@ -48,9 +48,10 @@
 - Linux, Windows
 
 ### Владение инструментами Kali / Ubuntu Linux
-- Vim / Cat / Grep / Nikto / SQLMap / nmap 
+- vim / cat / grep / Nikto / SQLMap / nmap 
 - wireshark / dirb / hashcat / hydra / wordlists
-- dirsearch / burpsuite / netcat / metasploit 
+- dirsearch / burpsuite / netcat / metasploit / ngrok 
+- nano 
 
 ### Исследование геймдева 
 - Unity(основы)
